@@ -1,5 +1,5 @@
 body {
-    background-image: url(./img/fon5.jpg);
+    background-image: url(img/fon5.jpg);
     background-size: 100%;
    
     
@@ -69,10 +69,7 @@ header i{
     background-color: #1c2b33;
     margin: 0;
 }
-.fo-11{
-    /* display: grid; */
-    /* grid-template-rows:(3 1fr); */
-}
+
 .fo-11 h2{
 
   margin-top: 240px;
